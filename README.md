@@ -1,4 +1,4 @@
 dosa shop
 
 plan dosa
-doas batter
+dosa batter
